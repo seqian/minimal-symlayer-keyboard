@@ -22,9 +22,12 @@ You'll need the following installed on your system:
 ### Step 1: Clone the Repository
 
 ```bash
+# Clone the repository (use the appropriate fork/repository URL)
 git clone https://github.com/seqian/minimal-symlayer-keyboard.git
 cd minimal-symlayer-keyboard
 ```
+
+**Note:** If you're building from a different fork, replace the URL above with the appropriate repository URL.
 
 ### Step 2: Build the APK
 
