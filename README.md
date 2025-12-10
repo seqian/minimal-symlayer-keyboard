@@ -35,10 +35,16 @@ The Multipress for accented characters feature from the original project is disa
 
 ## Installation
 
+### Option 1: Download Pre-built APK
+
 1. Download the latest APK from the [releases](https://github.com/rickybrent/minimal-symlayer-keyboard/releases) page.
 2. Install the APK on your Minimal Phone MP01.
 3. Go to `Settings` > `System` > `Languages & input` > `Virtual keyboard` > `Manage keyboards` and enable `Minimal Symlayer Input`.
 4. Select `Minimal Symlayer Input` as your default input method.
+
+### Option 2: Build from Source
+
+If you want to customize the keyboard or test the latest development version, you can build the APK yourself. See [BUILDING.md](BUILDING.md) for detailed instructions on how to compile the project into an APK file.
 
 
 
@@ -255,6 +261,10 @@ The first column is the character printed on the key
 # Voice Input
 
 Toggling voice input will switch to a voice-input IME if one is installed and enabled, e.g. Google Voice Input (added with [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)) or [Whisper Plus](https://github.com/woheller69/whisperIMEplus).
+
+# Building from Source
+
+Want to customize the keyboard or test the latest changes? Check out [BUILDING.md](BUILDING.md) for complete instructions on compiling the project into an APK file that you can install on your device.
 
 # Customizing and contributing
 
